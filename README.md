@@ -25,9 +25,3 @@ In this project, I embarked on a journey to explore and analyze the top 1000 mov
 - I acquired a practical understanding of exploratory data analysis techniques, enabling me to extract meaningful insights and tell a compelling story through data visualization.
 
 - The project showcased my ability to utilize Python libraries and tools for data manipulation, analysis, and visualization in a real-world context.
-
-Overall, "Portfolio Project 01 - Web Scraping and Exploratory Data Analysis Top 1000 IMDB Movies" is a testament to my hands-on skills in data acquisition, preprocessing, and exploratory analysis, demonstrating my capability to transform raw data into actionable insights through a comprehensive data-driven approach.
-
----
-
-Feel free to customize the description to align with the specific details and outcomes of your project. This should provide an engaging overview of your work on this particular portfolio project.
