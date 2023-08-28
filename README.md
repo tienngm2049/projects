@@ -12,7 +12,7 @@ In this project, I embarked on a captivating journey to explore and analyze the 
 
 For my second project, I delved into the world of bank marketing, focusing on Exploratory Data Analysis (EDA) and Classification Modeling. I leveraged Python and machine learning to gain insights from the data and build predictive models. The project showcased my ability to handle real-world data, perform in-depth analysis, and draw conclusions that contribute to marketing strategies.
 
-[Read more about Project 02](link_to_project_02_readme.md)
+[Read more about Project 02](./Portfolio%20Project%2002%20-%20Bank%20Marketing%20-%20Exploratory%20Data%20Analysis%2C%20and%20Classification%20Modeling/README.md)
 
 ## Future Endeavors
 
