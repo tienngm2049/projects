@@ -8,6 +8,7 @@ In this project, I've worked with two main files:
 
 - `Bank Marketing - Exploratory Data Analysis and Classification Modeling.html`: This HTML file contains the comprehensive report of my analysis. It includes visualizations, findings, and explanations of the steps I took in both EDA and classification modeling.
 - `Bank Marketing - Exploratory Data Analysis and Classification Modeling.ipynb`: This Jupyter Notebook file contains the code I used for the analysis. It's a step-by-step guide to how I performed EDA, prepared the data, and built classification models.
+- Folder saving our dataset.
 
 ## What's Included
 
