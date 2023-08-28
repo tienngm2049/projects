@@ -6,7 +6,7 @@ Welcome to my Data Science portfolio! As a passionate learner in the fields of S
 
 In this project, I embarked on a captivating journey to explore and analyze the top 1000 movies listed on IMDB. I utilized web scraping to collect data, conducted comprehensive exploratory data analysis, and uncovered insightful patterns. The project honed my web scraping skills, data preprocessing proficiency, and expertise in extracting meaningful insights through data visualization.
 
-[Read more about Project 01](Portfolio-Projects/Portfolio Project 01 - Web Scraping and Exploratory Data Analysis/README.md)
+[Read more about Project 01](./Portfolio%20Project%2001%20-%20Web%20Scraping%20and%20Exploratory%20Data%20Analysis/README.md).
 
 ## Project 02 - Bank Marketing Analysis
 
