@@ -14,6 +14,16 @@ For my second project, I delved into the world of bank marketing, focusing on Ex
 
 [Read more about Project 02](./Portfolio%20Project%2002%20-%20Bank%20Marketing%20-%20Exploratory%20Data%20Analysis%2C%20and%20Classification%20Modeling/README.md)
 
+## Project 03 - Customer Segmentation with PCA and Clustering
+
+In this project, I ventured into the realm of customer segmentation by employing Principal Component Analysis (PCA) and clustering techniques. The dataset under scrutiny belongs to a grocery firm, containing a plethora of customer-related information. This project showcases my proficiency in leveraging advanced data analysis techniques to gain valuable insights into customer behavior and preferences.
+
+[Read more about Project 03](https://github.com/tienngm2049/Portfolio-Projects/tree/main/Portfolio%20Project%2003%20-%20Customer%20Segmentation%20-%20PCA%20and%20Clustering)
+
+Through this project, I explored the world of unsupervised learning, delving into data dimensionality reduction, cluster analysis, and customer segmentation. By doing so, I contributed to the optimization of products and services to cater to distinct customer needs and behaviors.
+
+Stay tuned for more exciting projects as I continue to expand my knowledge and skills in the realm of Data Science and Analytics. Your feedback and collaboration opportunities are always welcome!
+
 ## Future Endeavors
 
 My journey in the realm of Data Science and Analytics is an ongoing one. I'm continuously expanding my skills and knowledge, exploring new datasets, and delving into cutting-edge techniques. I'm excited about the potential of future projects that will further showcase my growth as a Data Scientist.
