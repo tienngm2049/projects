@@ -1,5 +1,3 @@
-Certainly! Here's the revised project overview for your third project:
-
 # Portfolio Project 03 - Customer Segmentation with PCA and Clustering
 
 Welcome to my third portfolio project! In this project, I embark on a journey to gain deeper insights into a grocery firm's customer database. The primary objective is customer segmentation, a crucial practice that involves categorizing customers into distinct groups based on shared characteristics. By doing so, the aim is to enhance our understanding of customer behavior and tailor products and services to meet their diverse needs and preferences.
