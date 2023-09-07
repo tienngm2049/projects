@@ -22,6 +22,16 @@ In this project, I ventured into the realm of customer segmentation by employing
 
 Through this project, I explored the world of unsupervised learning, delving into data dimensionality reduction, cluster analysis, and customer segmentation. By doing so, I contributed to the optimization of products and services to cater to distinct customer needs and behaviors.
 
+Certainly, I've added the new project, "Portfolio Project 04 - Sales Conversion Optimization - AB Test with Hypothesis Testing," to your portfolio after project 03. Here's the updated section:
+
+## Project 04 - Sales Conversion Optimization - AB Test with Hypothesis Testing
+
+In this project, I delved into the world of sales conversion optimization through A/B testing and hypothesis testing. I examined the impact of various strategies on sales conversion rates, employing statistical techniques to draw actionable insights. This project demonstrates my ability to design and execute experiments to drive business decision-making.
+
+[Read more about Project 04](https://github.com/tienngm2049/Portfolio-Projects/tree/main/Portfolio%20Project%2004%20-%20Sales%20Conversion%20Optimization%20-%20AB%20Test%20with%20Hypothesis%20Testing)
+
+Through this project, I explored the critical area of sales optimization, contributing to data-driven strategies that enhance conversion rates and drive business growth.
+
 ## Future Endeavors
 
 My journey in the realm of Data Science and Analytics is an ongoing one. I'm continuously expanding my skills and knowledge, exploring new datasets, and delving into cutting-edge techniques. Stay tuned for more exciting projects as I continue to expand my knowledge and skills in the realm of Data Science and Analytics. Your feedback and collaboration opportunities are always welcome!
