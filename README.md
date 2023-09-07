@@ -4,36 +4,31 @@ Welcome to my Data Science portfolio! As a passionate learner in the fields of S
 
 ## Project 01 - IMDB Movie Data Analysis
 
-In this project, I embarked on a captivating journey to explore and analyze the top 1000 movies listed on IMDB. I utilized web scraping to collect data, conducted comprehensive exploratory data analysis, and uncovered insightful patterns. The project honed my web scraping skills, data preprocessing proficiency, and expertise in extracting meaningful insights through data visualization.
+In my first project, I embarked on an exhilarating journey to analyze the top 1000 movies listed on IMDB. Through web scraping, I collected a wealth of data, delved into comprehensive exploratory data analysis, and uncovered insightful patterns. This project sharpened my web scraping skills, honed my data preprocessing proficiency, and showcased my expertise in extracting meaningful insights through data visualization.
 
 [Read more about Project 01](./Portfolio%20Project%2001%20-%20Web%20Scraping%20and%20Exploratory%20Data%20Analysis/README.md)
 
 ## Project 02 - Bank Marketing Analysis
 
-For my second project, I delved into the world of bank marketing, focusing on Exploratory Data Analysis (EDA) and Classification Modeling. I leveraged Python and machine learning to gain insights from the data and build predictive models. The project showcased my ability to handle real-world data, perform in-depth analysis, and draw conclusions that contribute to marketing strategies.
+For my second project, I delved into the world of banking, focusing on Exploratory Data Analysis (EDA) and Classification Modeling. I leveraged Python and machine learning to gain insights from the data and build predictive models for term deposit subscriptions. The project showcased my ability to handle real-world data, perform in-depth analysis, and draw conclusions that contribute to marketing strategies of the bank to focus on suitable clients to higher the rate of subscription.
 
 [Read more about Project 02](./Portfolio%20Project%2002%20-%20Bank%20Marketing%20-%20Exploratory%20Data%20Analysis%2C%20and%20Classification%20Modeling/README.md)
 
 ## Project 03 - Customer Segmentation with PCA and Clustering
 
-In this project, I ventured into the realm of customer segmentation by employing Principal Component Analysis (PCA) and clustering techniques. The dataset under scrutiny belongs to a grocery firm, containing a plethora of customer-related information. This project showcases my proficiency in leveraging advanced data analysis techniques to gain valuable insights into customer behavior and preferences.
+Project 03 ventured into customer segmentation by applying Principal Component Analysis (PCA) and clustering techniques. Working with a rich dataset from a grocery firm, I uncovered valuable insights into customer behavior and preferences. This project showcased my proficiency in advanced data analysis, including data dimensionality reduction, cluster analysis, and customer segmentation. These insights contributed to optimizing products and services to cater to diverse customer needs and behaviors.
 
 [Read more about Project 03](https://github.com/tienngm2049/Portfolio-Projects/tree/main/Portfolio%20Project%2003%20-%20Customer%20Segmentation%20-%20PCA%20and%20Clustering)
 
-Through this project, I explored the world of unsupervised learning, delving into data dimensionality reduction, cluster analysis, and customer segmentation. By doing so, I contributed to the optimization of products and services to cater to distinct customer needs and behaviors.
-
 ## Project 04 - Sales Conversion Optimization - AB Test with Hypothesis Testing
 
-In this project, I delved into the world of sales conversion optimization through A/B testing and hypothesis testing. I examined the impact of various strategies on sales conversion rates, employing statistical techniques to draw actionable insights. This project demonstrates my ability to design and execute experiments to drive business decision-making.
+Project 04 focused on optimizing sales conversion rates through A/B testing and hypothesis testing. I meticulously designed experiments, chose relevant metrics, and employed statistical techniques to draw actionable insights. This project showcased my ability to execute experiments that inform data-driven business decisions, contributing to enhanced conversion rates and business growth.
 
 [Read more about Project 04](https://github.com/tienngm2049/Portfolio-Projects/tree/main/Portfolio%20Project%2004%20-%20Sales%20Conversion%20Optimization%20-%20AB%20Test%20with%20Hypothesis%20Testing)
 
-Through this project, I explored the critical area of sales optimization, contributing to data-driven strategies that enhance conversion rates and drive business growth.
-
 ## Future Endeavors
 
-My journey in the realm of Data Science and Analytics is an ongoing one. I'm continuously expanding my skills and knowledge, exploring new datasets, and delving into cutting-edge techniques. Stay tuned for more exciting projects as I continue to expand my knowledge and skills in the realm of Data Science and Analytics. Your feedback and collaboration opportunities are always welcome!
-
+My journey in the realm of Data Science and Analytics has only just begun. I'm continuously expanding my skills and knowledge, exploring new datasets, and delving into cutting-edge techniques and learn more. Stay tuned for more exciting projects as I continue to expand my knowledge and skills in the realm of Data Science and Analytics. Your feedback and collaboration opportunities are always welcome!
 
 ## Contact Information
 
